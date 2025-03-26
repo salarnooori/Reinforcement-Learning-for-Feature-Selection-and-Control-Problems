@@ -25,7 +25,7 @@ This project explores the application of reinforcement learning (RL) techniques 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/reinforcement-learning-feature-selection-control.git
+   git clone https://github.com/salarnooori/reinforcement-learning-feature-selection-control.git
 
    
 
